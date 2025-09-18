@@ -1,0 +1,2 @@
+unit,orig_mean,orig_std,orig_ci_low,orig_ci_high,orig_n,quant_mean,quant_std,quant_ci_low,quant_ci_high,quant_n,delta_mean,delta_std,delta_ci_low,delta_ci_high,delta_n,reduction_percent
+1/32,20.258,14.952,18.180,22.335,199,0.000,0.000,0.000,0.000,199,20.258,14.952,18.180,22.335,199,100.00
